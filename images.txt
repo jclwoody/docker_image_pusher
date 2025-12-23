@@ -2,3 +2,4 @@ registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
 python:alpine3.19
 deluan/navidrome:latest
 v2fly/v2fly-core:latest
+hslr/sun-panel:latest

@@ -3,4 +3,4 @@ python:alpine3.19
 deluan/navidrome:latest
 v2fly/v2fly-core:latest
 hslr/sun-panel:latest
-linux/arm64 hslr/sun-panel:latest
+--platform=linux/arm64 hslr/sun-panel:latest

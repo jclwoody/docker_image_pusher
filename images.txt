@@ -1,3 +1,4 @@
 --platform=linux/arm64 hslr/sun-panel:latest
 --platform=linux/arm64 linuxserver/transmission:latest
 --platform=linux/arm64 teddysun/v2ray:latest
+--platform=linux/arm64 deluan/navidrome:latest

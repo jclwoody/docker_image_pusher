@@ -1,6 +1,8 @@
 --platform=linux/arm64 hslr/sun-panel:latest
 --platform=linux/arm64 linuxserver/transmission:latest
---platform=linux/arm64 teddysun/v2ray:latest
 --platform=linux/arm64 deluan/navidrome:latest
 --platform=linux/arm64 linuxserver/calibre:latest
 --platform=linux/arm64 xhongc/music_tag_web:latest
+--platform=linux/arm64 v2fly/v2fly-core:latest
+--platform=linux/arm64 xhongc/music_tag_web:latest
+--platform=linux/arm64 linuxserver/calibre-web:latest
